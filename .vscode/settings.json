@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "aws_iot_log.h": "c",
+        "aws_iot_config.h": "c",
+        "aws_iot_version.h": "c",
+        "aws_iot_mqtt_client_interface.h": "c"
+    }
+}
